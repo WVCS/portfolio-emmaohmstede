@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+body {
+  background-color:fuchsia
+    ;}
+body {
+	font-family: 'Bungee'; 
+	text-align: center;
+	padding: 3rem;
+	font-size: 2rem;
+	line-height: 1.5;
+	transition: all 725ms ease-in-out;
+}
+h1 {
+	font-size: 5rem;
+	font-weight: bolder;
+	margin-bottom: .001rem;
+}
+
+p {
+	margin-bottom: 1rem;
+	color: ;
+}
